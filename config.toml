@@ -1,0 +1,5 @@
+baseURL = "https://tgarlot.github.io"
+languageCode = "en-us"
+title = "Learning Blob"
+theme = "hello-friend"
+paginate     = 10
