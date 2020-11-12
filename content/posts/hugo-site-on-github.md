@@ -69,18 +69,15 @@ git push -u origin master
 Then add the `public` as a Git submodule:
 
 ``` bash
-rm -rf public
 cd ..
+rm -rf public
 git submodule add -b master https://github.com/tgarlot/tgarlot.github.io.git public
+git add .
+git commit -m"Add public folder as submodule"
+git push -u origin master
 ```
+## Add or edit some content
 
-Git add/commit/push 
-
-Then how to run:
 * update a markdown file
 * run hugo command to regenerate the content of the public folder
 * add/commit/push in BOTH repositoriy (public and content)
-
-
-
-git clone https://github.com/tgarlot/tgarlot.github.io.git public
