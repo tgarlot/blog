@@ -1,7 +1,7 @@
 ---
 title: "Git Rebase Merge"
 date: 2020-11-18T07:40:07+01:00
-draft: true
+draft: false
 ---
 
 References:
