@@ -3,3 +3,12 @@ languageCode = "en-us"
 title = "Learning Blob"
 theme = "hello-friend"
 paginate     = 10
+
+[languages]
+  [languages.en]
+    dateFormatSingle = "January 2, 2006"
+    dateFormatList = "January 2, 2006"
+
+[languages.en.params.logo]
+    logoText = "Blog"
+    logoHomeLink = "/"
