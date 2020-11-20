@@ -2,6 +2,8 @@
 title: "Homebrew"
 date: 2020-11-11T06:07:29+01:00
 draft: false
+description: "Main Homebrew commands"
+tags: ["macOS", "Homebrew"]
 ---
 
 Reminders for Homebrew commands

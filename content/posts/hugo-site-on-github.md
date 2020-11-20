@@ -2,6 +2,8 @@
 title: "Hugo Site on Github"
 date: 2020-11-11T06:25:58+01:00
 draft: false
+description: "How to use Hugo to generate a static site"
+tags: ["Development","Hugo", "Git"]
 ---
 
 References:

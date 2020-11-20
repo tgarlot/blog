@@ -1,13 +1,16 @@
 ---
 title: "Git Rebase Merge"
 date: 2020-11-18T07:40:07+01:00
+description: "Tips on how to do PR on GitHub"
 draft: false
+tags: ["Development","Git"]
 ---
 
 References:
 * [https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
 * [https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
-* [Delete a local or remote branch](https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote)
+* [https://ardalis.com/syncing-a-fork-of-a-github-repository-with-upstream/](https://ardalis.com/syncing-a-fork-of-a-github-repository-with-upstream/)
+
 
 Let's start from an repo on gitHub, for example [Hugo Docs](https://github.com/gohugoio/hugoDocs)
 
