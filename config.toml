@@ -12,3 +12,6 @@ paginate     = 10
 [languages.en.params.logo]
     logoText = "Blog"
     logoHomeLink = "/"
+
+[markup.goldmark.renderer]
+  unsafe = true
