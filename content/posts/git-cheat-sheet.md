@@ -27,3 +27,7 @@ git reset --hard upstream/master
 # take care, this will delete all your changes on your forked master
 git push origin master --force
 ```
+
+# Get log 
+
+`git log --pretty=format:"%h %s" --graph`
